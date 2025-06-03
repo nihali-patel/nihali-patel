@@ -1,5 +1,12 @@
-## Hi there 👋
+### Hi, I'm Nihali!
 
+👩🏽‍💻 Aspiring Software Engineer passionate about building impactful, data driven solutions<br/>
+🛡️ Pursuing a B.S. in Computer Science and Data Science at Rutgers University, New Brunswick<br/>
+🌱 Learning new languages and frameworks (diving into Bootstrap!)<br/>
+📊 Currently conducting data analysis for the New Jersey Big Data Alliance<br/>
+
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Nihali's GitHub stats](https://github-readme-stats.vercel.app/api?username=nih33&count_private=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **nih33/nih33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
