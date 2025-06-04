@@ -1,5 +1,5 @@
 # 👋🏽 Hi, I'm Nihali!
-👩🏽‍💻 Aspiring Software Engineer passionate about building reliable, data-informed software<br>
+👩🏽‍💻 Aspiring Software Engineer passionate about building reliable and impactful software<br>
 🛡️ Pursuing a B.S. in Computer Science and Data Science at Rutgers University<br>
 🔍 Applying technical and analytical skills through the NJ Big Data Alliance externship<br>
 🌱 Currently learning full-stack development<br>
