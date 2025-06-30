@@ -37,7 +37,10 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=nih33&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=nihali-patel&show_icons=true&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Visitor Counter 
 [![](https://visitcount.itsvg.in/api?id=nih33&icon=0&color=0)](https://visitcount.itsvg.in)
